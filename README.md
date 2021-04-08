@@ -1,6 +1,6 @@
 # A Simple Baseline for StyleGAN Inversion
 
-<img src='imgs/teaser.png'/>
+<img src='imgs/teaser.pdf'/>
 
 
 Tianyi Wei<sup>1</sup>,
