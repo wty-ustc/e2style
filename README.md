@@ -33,3 +33,16 @@ This paper studies the problem of StyleGAN inversion, which plays an essential r
 - [ ] Release training code
 
 
+## Citation
+
+If you find our work useful for your research, please consider citing the following papers :)
+
+```
+@article{wei2021simpleinversion,
+  title={A Simple Baseline for StyleGAN Inversion},
+  author={Wei, Tianyi and Chen, Dongdong and Zhou, Wenbo and Liao, Jing and Zhang, Weiming and Yuan, Lu and Hua, Gang and Yu, Nenghai},
+  journal={arXiv preprint arXiv:2104.07661},
+  year={2021}
+}
+```
+
