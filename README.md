@@ -1,4 +1,11 @@
 # A Simple Baseline for StyleGAN Inversion
+This repository hosts the official PyTorch implementation of the paper: "**A Simple Baseline for StyleGAN Inversion**".
+
+ * [Project Page](https://wty-ustc.github.io/inversion)
+ * [Paper](https://wty-ustc.github.io/inversion/paper/A%20Simple%20Baseline%20for%20StyleGAN%20Inversion.pdf)
+ * [Video Inversion Examples](https://youtu.be/gJwFgdRHK0M)
+
+Note that **Once our paper is accepted, we will release the code and pre-trained models**. Please stay tuned.
 
 <img src='imgs/teaser.png'>
 
