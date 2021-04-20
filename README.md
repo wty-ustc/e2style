@@ -18,7 +18,8 @@ Weiming Zhang<sup>1</sup>,
 Lu Yuan<sup>2</sup>, 
 Gang Hua<sup>4</sup>, 
 Nenghai Yu<sup>1</sup> <br>
-<sup>1</sup>University of Science and Technology of China, <sup>2</sup>Microsoft Cloud AI, <sup>3</sup>City University of Hong Kong, <sup>4</sup>Wormpex AI Research
+<sup>1</sup>University of Science and Technology of China, <sup>2</sup>Microsoft Cloud AI <br>
+<sup>3</sup>City University of Hong Kong, <sup>4</sup>Wormpex AI Research
 
 
 ## Abstract
