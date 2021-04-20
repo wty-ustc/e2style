@@ -5,7 +5,7 @@ This repository hosts the official PyTorch implementation of the paper: "**A Sim
  * [Paper](https://wty-ustc.github.io/inversion/paper/A%20Simple%20Baseline%20for%20StyleGAN%20Inversion.pdf)
  * [Video Inversion Examples](https://youtu.be/gJwFgdRHK0M)
 
-Note that **Once our paper is accepted, we will release the code and pre-trained models**. Please stay tuned.
+Note that `Once our paper is accepted, we will release the code and pre-trained models. Please stay tuned.`
 
 <img src='imgs/teaser.png'>
 
@@ -18,8 +18,7 @@ Weiming Zhang<sup>1</sup>,
 Lu Yuan<sup>2</sup>, 
 Gang Hua<sup>4</sup>, 
 Nenghai Yu<sup>1</sup> <br>
-<sup>1</sup>University of Science and Technology of China, <sup>2</sup>Microsoft Cloud AI <br>
-<sup>3</sup>City University of Hong Kong, <sup>4</sup>Wormpex AI Research
+<sup>1</sup>University of Science and Technology of China, <sup>2</sup>Microsoft Cloud AI, <sup>3</sup>City University of Hong Kong, <sup>4</sup>Wormpex AI Research
 
 
 ## Abstract
