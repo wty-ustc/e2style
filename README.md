@@ -28,7 +28,7 @@ This paper studies the problem of StyleGAN inversion, which plays an essential r
 
 
 ## To Do
-- [ ] Release testing code
+- [X] Release testing code
 - [ ] Release pretrained model
 - [ ] Release training code
 
