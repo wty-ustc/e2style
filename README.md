@@ -301,7 +301,7 @@ Additional notes to consider:
 - For Secure Deep Hiding, Semantic Editing, Style Mixing, Interpolation, you need to run the inversion first, and the latent codes and image names will be saved in the corresponding folders. Make sure to add the flag `--save_inverted_codes` when you run the inversion.
 
 ## Acknowledgements
-This work is heavily based on [pSp](https://github.com/eladrich/pixel2style2pixel) and [idinvert](https://github.com/genforce/idinvert_pytorch).
+This code is heavily based on [pSp](https://github.com/eladrich/pixel2style2pixel) and [idinvert](https://github.com/genforce/idinvert_pytorch).
 
 ## Citation
 
