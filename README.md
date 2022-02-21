@@ -28,6 +28,12 @@ Please download the pre-trained models from the following links. Each E2Style mo
 | Path | Description
 | :--- | :----------
 |[StyleGAN Inversion](https://drive.google.com/file/d/1CzMDA88GJgVzc5JxKt3-l504a7TuSw5j/view?usp=sharing)  | E2Style trained with the FFHQ dataset for StyleGAN inversion.
+|[Colorization](https://drive.google.com/file/d/17Ht2e0Hr9wqkinHwlRQ_xGnSRvhZPioS/view?usp=sharing)  | E2Style trained with the FFHQ dataset for colorization.
+|[Denoise](https://drive.google.com/file/d/17INPNHGMwDhu3FBIxSJjdn59SrkK7Sr6/view?usp=sharing)  | E2Style trained with the FFHQ dataset for denoising.
+|[Inpainting](https://drive.google.com/file/d/1vLkDzKXguqslC06e80ZHhLUs7cHv03Wr/view?usp=sharing)  | E2Style trained with the FFHQ dataset for inpainting.
+|[Super Resolution](https://drive.google.com/file/d/1nXZjaxo_CDLh3_QmmiHjQlQXBqvlnrNZ/view?usp=sharing)  | E2Style trained with the CelebA-HQ dataset for super resolution (up to x32 down-sampling).
+|[Sketch to Image](https://drive.google.com/file/d/13aoBbU8n8DLWg531Ul3Ngp-vWVlW5oXD/view?usp=sharing)  | E2Style trained with the CelebA-HQ dataset for image synthesis from sketches.
+|[Segmentation to Image](https://drive.google.com/file/d/1eH5qB9PZjlRACCj7pfe24266igzYkp89/view?usp=sharing) | E2Style trained with the CelebAMask-HQ dataset for image synthesis from segmentation maps.
 
 If you wish to use one of the pretrained models for training or inference, you may do so using the flag `--checkpoint_path`.
 In addition, we provide various auxiliary models needed for training your own E2Style model from scratch.
