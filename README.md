@@ -23,6 +23,12 @@ Nenghai Yu<sup>1</sup> <br>
 **`2022.02.19`**: Initial code release  
 
 ## Getting Started
+### Prerequisites
+```bash
+$ conda install --yes -c pytorch pytorch=1.7.1 torchvision cudatoolkit=11.0
+$ pip install matplotlib scipy opencv-python pillow scikit-image tqdm
+```
+If you want to run secure deep hiding, you need to install [matlab engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html).
 ### Pretrained Models
 Please download the pre-trained models from the following links. Each E2Style model contains the entire E2Style architecture, including the encoder and decoder weights.
 | Path | Description
