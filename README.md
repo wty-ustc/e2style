@@ -26,7 +26,7 @@ Nenghai Yu<sup>1</sup> <br>
 ### Prerequisites
 ```bash
 $ conda install --yes -c pytorch pytorch=1.7.1 torchvision cudatoolkit=11.0
-$ pip install matplotlib scipy opencv-python pillow scikit-image tqdm
+$ pip install matplotlib scipy opencv-python pillow scikit-image tqdm tensorflow-io
 ```
 If you want to run secure deep hiding, you need to install [matlab engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html).
 ### Pretrained Models
