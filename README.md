@@ -1,5 +1,5 @@
 # E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion
-This repository hosts the official PyTorch implementation of the paper: "**E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion**".
+This repository hosts the official PyTorch implementation of the paper: "**E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion**" (Accepted by TIP 2022), which was initially called "A Simple Baseline for StyleGAN Inversion".
 
  * [Project Page](https://wty-ustc.github.io/inversion)
  * [Paper](https://wty-ustc.github.io/inversion/paper/A%20Simple%20Baseline%20for%20StyleGAN%20Inversion.pdf)
@@ -21,6 +21,7 @@ Nenghai Yu<sup>1</sup> <br>
 
 ## Recent Updates
 **`2022.02.19`**: Initial code release  
+**`2022.03.26`**: The paper has been accepted by IEEE Transactions on Image Processing [TIP]! 🎉
 
 ## Getting Started
 ### Prerequisites
@@ -320,11 +321,11 @@ This code is heavily based on [pSp](https://github.com/eladrich/pixel2style2pixe
 If you find our work useful for your research, please consider citing the following papers :)
 
 ```
-@article{wei2021simpleinversion,
-  title={A Simple Baseline for StyleGAN Inversion},
+@article{wei2022e2style,
+  title={E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion},
   author={Wei, Tianyi and Chen, Dongdong and Zhou, Wenbo and Liao, Jing and Zhang, Weiming and Yuan, Lu and Hua, Gang and Yu, Nenghai},
-  journal={arXiv preprint arXiv:2104.07661},
-  year={2021}
+  journal={IEEE Transactions on Image Processing},
+  year={2022}
 }
 ```
 
