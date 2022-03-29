@@ -2,7 +2,7 @@
 This repository hosts the official PyTorch implementation of the paper: "**E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion**" (Accepted by TIP 2022), which was initially called "A Simple Baseline for StyleGAN Inversion".
 
  * [Project Page](https://wty-ustc.github.io/inversion)
- * [Paper](https://wty-ustc.github.io/inversion/paper/A%20Simple%20Baseline%20for%20StyleGAN%20Inversion.pdf)
+ * [Paper](https://wty-ustc.github.io/inversion/paper/E2Style.pdf)
  * [Video Inversion Examples](https://youtu.be/gJwFgdRHK0M)
 
 <img src='imgs/teaser.png'>
