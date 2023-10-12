@@ -19,9 +19,9 @@ Nenghai Yu<sup>1</sup> <br>
 <sup>1</sup>University of Science and Technology of China, <sup>2</sup>Microsoft Cloud AI <br>
 <sup>3</sup>City University of Hong Kong, <sup>4</sup>Wormpex AI Research
 
-## Recent Updates
+## News
+**`2022.03.26`**: The paper has been accepted by IEEE Transactions on Image Processing [TIP]! 🎉  
 **`2022.02.19`**: Initial code release  
-**`2022.03.26`**: The paper has been accepted by IEEE Transactions on Image Processing [TIP]! 🎉
 
 ## Getting Started
 ### Prerequisites
